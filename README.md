@@ -49,10 +49,10 @@ npm start
 ```
 
 ## API Integration
-
+e31bf1bb588f6f712570da86fb346a1b
 This addon uses:
-
-- TMDB API for movie collections and metadata
+e31bf1bb588f6f712570da86fb346a1b
+- TMDB API for movie collections and metadata 
 - Fanart.tv for high-quality movie artwork
 
 ## License
@@ -64,3 +64,4 @@ MIT License
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for their excellent API
 - [Fanart.tv](https://fanart.tv/) for providing high-quality artwork
 - [Stremio](https://www.stremio.com/) for the amazing streaming platform
+
